@@ -69,10 +69,6 @@ Ativa a faixa de células 'B27:D31' e muda para a aba '-11 vendas'.
 
 Ativa a faixa de células 'E33:F37' e muda para a aba 'ATIVAR!'.
 
-### 9. `cadastroBase`
-
-Ativa a célula 'K13' e muda para a aba 'BASE CADASTRO'.
-
 ## Como Usar
 
 1. Abra a planilha no Google Sheets.
